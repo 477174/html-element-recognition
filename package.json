@@ -1,0 +1,23 @@
+{
+  "name": "html-element-recognition",
+  "version": "1.0.0",
+  "description": "Saves unique characteristics of an HTML element on any page and makes it possible to identify it in different situations",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/477174/html-element-recognition.git"
+  },
+  "keywords": [
+    "automation",
+    "pattern-recognition",
+    "html",
+    "javascript",
+    "front-end",
+    "AI"
+  ],
+  "author": "Átila Braga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/477174/html-element-recognition/issues"
+  },
+  "homepage": "https://github.com/477174/html-element-recognition#readme"
+}
